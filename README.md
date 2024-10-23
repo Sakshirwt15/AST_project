@@ -36,7 +36,7 @@ Start the Application:
 
 **3.Stack Summary**
 
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript ,React
 Backend: Flask (Python), AST Parsing (Python)
 Database: MongoDB
 Testing: unittest (Python)

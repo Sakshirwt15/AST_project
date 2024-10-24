@@ -26,7 +26,7 @@ Install the necessary Python libraries:
 
 2.**Running the Application:**
 
-Clone the Repository:git clone https://github.com/vaishnavidevli/AST.git
+Clone the Repository:git clone https://github.com/Sakshirwt15/AST_project.git
 
 
 Start the Application:
